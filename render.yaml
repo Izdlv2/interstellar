@@ -1,6 +1,5 @@
-
-  services:
+services:
   - type: web
-    name: interstellar
+    name: edu
     env: docker
     plan: free

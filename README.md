@@ -1,59 +1,72 @@
-<div align='center'>
+<div align="center">
+    <h1>Interstellar Proxy</h1>
+    </div>
+One of the most popular web proxies, used by over 5.7 million people in 2023.
 
-# Interstellar v4
+### Consider joining our[ Discord Community](https://discord.gg/interstellar)
 
-Interstellar is one of the best modern unblocked game sites. Check it out <a href="https://interstellars.games">here</a>. If this link is blocked, you can get more links in our <a href="https://dsc.gg/interstellarntwork">Discord Server!</a>
+> If you find this project useful, consider giving it a star in the original repository.
 
-<a href="https://discord.gg/gointerstellar"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://github.com/interstellarnetwork"><img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img></a>
-</p>  
+<h2 align="center">Features</h2>
+<ul>
+    <li>About:Blank Cloaking</li>
+    <li>Fast Speeds</li>
+    <li>Wide collection of Games</li>
+    <li>Tab Cloaking</li>
+    <li>Wide collection of Apps</li>
+    <li>Built-In Tab System</li>
+    <li>Clean UI</li>
+    <li>Inspect Element</li>
+    <li>Now.GG Support</li>
+    <li>Built in Password Protection</li>
+    <li>Geforce Now Support</li>
+</ul>
 
-# Deploying
+<h2 align="center">Deployment</h2>
 
-**Note:**  All of the built-in games will **NOT** work on certain services, since these services have a size limit.
-  
-### Free Services
+### Easy Deployment
 
- Interstellar will not work on Vercel, Netlify or Cloudflare Pages.
+**Note:** You **cannot** deploy to static web hosts, including Netlify, Cloudflare Pages, and GitHub Pages.
 
-<a target="_blank" href="https://replit.com/github/interstellarnetwork/interstellar-deployable"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/interstellarnetwork/interstellar-deployable)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://github.com/interstellarnetwork/interstellar/wiki/How-to-deploy-to-OnRender.)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/imbubbo/interstellar)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/pTe4mb?referralCode=R3UkeC)
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/interstellarnetwork/interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/InterstellarNetwork/IN-Render"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
+<a target="_blank" href="https://app.cyclic.sh/api/app/deploy/interstellarnetwork/Interstellar"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
 
+## Deployment Alternatives:
 
-### <a href="https://github.com/interstellarnetwork/Interstellar/wiki/How-to-deploy-to-Replit-(Semi-Advanced)">How to deploy to Replit - Replit Free Plan</a>
+For more deployment options join our [Discord Server](https://discord.gg/interstellar) for tons of different ways to deploy Interstellar.
 
-# Paid Services (Some are free with a Credit/Debit Card)
+#### What happened to Replit Deployment?
 
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar)
-[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/interstellarnetwork/interstellar/archive/refs/heads/main.zip)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/interstellarnetwork/interstellar&branch=main&name=interstellar&run_command=npm%start)
-[![Run on Google Cloud](https://camo.githubusercontent.com/4fab2bbebcae1fe689b7d3eba3b89e309169215055849590724fd6e13333558c/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f676f6f676c65636c6f75642e737667)](https://deploy.cloud.run/?git_repo=https://github.com/interstellarnetwork/interstellar)
+As of January 1st 2024, Replit is [no longer free](https://blog.replit.com/hosting-changes). Try GitHub Codespaces instead.
 
+### GitHub Codespaces:
 
-
-
-
-# Project Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/cb9f30f479ea962536e2507e469a04718173bf3c.svg "Repobeats analytics image")
-
-
-
-# Contributors 
-Thank you to everyone who has contributed to Interstellar!
-<img src="https://contrib.rocks/image?repo=interstellarnetwork/interstellarnetwork.github.io"/>
-
-
-
-
-
-
-
-
-
+1. Create a GitHub account if you haven't already.
+2. Click "Code" (green button) and then "Create Codespace on main."
+3. In the terminal at the bottom, paste `npm i && npm run start`.
+4. Respond to the application popup by clicking "Make public."
+   > Make sure you actually click the "Make public." button, or the proxy won't function properly.
+5. Access the deployed website from the ports tab.
+6. For subsequent uses in the same codespace, just run `npm run start`
+### Solution for if there is no popup.
+1. Edit the ``index.js`` file and edit the **Port** to a different number, don't use 8080.
+2. Click Terminal, and paste `npm i && npm run start`.
+3. Go to the ports tab, Click Foward A Port, And type the port number.
+4. Right click Visibility and set Port Visibility to Public.
 
 
- 
+## Need Help with Deployment?
+
+If you're having trouble, reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
+
+### Report Issues:
+
+If you encounter problems, open an issue on GitHub, and we'll address it promptly.
+
+# Credits
+
+A huge thank you to all of the people who have contributed to Interstellar.
+
+[![Contributors](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
